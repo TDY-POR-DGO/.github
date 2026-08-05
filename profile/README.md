@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/por-dgo/.github/main/profile/assets/tdgo-logo-dark.png" width="280">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TDY-POR-DGO/.github/main/profile/assets/tdgo-logo-dark.png" width="280">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/por-dgo/.github/main/profile/assets/tdgo-logo-light.png" width="280">
-  <img alt="Teledyne DGO" src="https://raw.githubusercontent.com/por-dgo/.github/main/profile/assets/tdgo-logo-light.png" width="280">
+  <img alt="Teledyne DGO" src="https://raw.githubusercontent.com/TDY-POR-DGO/.github/main/profile/assets/tdgo-logo-light.png" width="280">
 </picture>
 
 # Teledyne DGO — Portsmouth
@@ -20,6 +20,6 @@ A repository is a project workspace that contains source code, documentation, an
 
 Teledyne DGO employees who need access for approved work may submit a request using the link below. Access is granted based on business need and admin approval.
 
-**[Request Organization Access →](https://github.com/por-dgo/.github/issues/new?template=org_access_request.yml)**
+**[Request Organization Access →](https://github.com/TDY-POR-DGO/.github/issues/new?template=org_access_request.yml)**
 
 ---
