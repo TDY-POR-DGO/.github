@@ -1,6 +1,6 @@
 # Teledyne DGO — Copilot Instructions
 
-These instructions apply to all repositories in the **por-dgo** organization unless overridden by a repo-level `copilot-instructions.md`.
+These instructions apply to all repositories in the **TDY-POR-DGO** organization unless overridden by a repo-level `copilot-instructions.md`.
 
 ## Organization Context
 
