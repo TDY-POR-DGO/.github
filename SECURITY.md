@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security issue in any **por-dgo** repository, please report it responsibly:
+If you discover a security issue in any **TDY-POR-DGO** repository, please report it responsibly:
 
 1. **Do not** open a public GitHub issue.
 2. Email **giles.cooper@teledyne.com** with a description of the vulnerability.
