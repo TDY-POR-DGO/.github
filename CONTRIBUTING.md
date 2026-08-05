@@ -1,6 +1,6 @@
-# Contributing to por-dgo Projects
+# Contributing to TDY-POR-DGO Projects
 
-This guide covers the standard workflow for all repositories in the **por-dgo** organization.
+This guide covers the standard workflow for all repositories in the **TDY-POR-DGO** organization.
 
 ## Issues
 
